@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
    <body>
      <h1>Hackers Strike Again</h1>
